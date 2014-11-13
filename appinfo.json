@@ -1,0 +1,60 @@
+{
+    "appKeys": {
+        "KEY_CONDITIONS": 1,
+        "KEY_LOCATION": 2,
+        "KEY_TEMPERATURE": 0,
+        "KEY_WINDSPEED": 3
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "Mernoc Limited",
+    "longName": "Cycling Weather",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/OpenSans-Light.ttf",
+                "name": "OPEN_SANS_LIGHT_30",
+                "type": "font"
+            },
+            {
+                "file": "fonts/OpenSans-Bold.ttf",
+                "name": "OPEN_SANS_BOLD_24",
+                "type": "font"
+            },
+            {
+                "file": "fonts/OpenSans-Bold.ttf",
+                "name": "OPEN_SANS_BOLD_20",
+                "type": "font"
+            },
+            {
+                "file": "fonts/OpenSans-Bold.ttf",
+                "name": "OPEN_SANS_BOLD_42",
+                "type": "font"
+            },
+            {
+                "file": "images/background.png",
+                "name": "IMAGE_BACKGROUND",
+                "type": "png"
+            },
+            {
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_20",
+                "type": "font"
+            },
+            {
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_48",
+                "type": "font"
+            }
+        ]
+    },
+    "shortName": "C-Weather",
+    "uuid": "1b89813f-9a3e-42fc-a605-4b26151f41a4",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
